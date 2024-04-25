@@ -8,6 +8,7 @@ package manejoclases03;
 public class Ejecutable01 {
     public static void main(String[] args) {
         // Se crea un objeto
+       // hospital de tipo Hospital = new Hospital();
         Hospital hospital = new Hospital();
         
         // Se asigna valores particulares al objeto
