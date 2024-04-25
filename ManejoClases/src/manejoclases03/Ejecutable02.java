@@ -21,7 +21,7 @@ public class Ejecutable02 {
         h2.establecerNombre("Militar");
         h3.establecerNombre("Manuel IM");
         /*
-        imprime en pantalla el nombre del tipo h1
+        imprime en pantalla el nombre del tipo h1 el numero de camas y el presupuesto se inicializa en cero 
         
         */
         System.out.printf("%s - %d - %.2f\n", h1.obtenerNombre(),
